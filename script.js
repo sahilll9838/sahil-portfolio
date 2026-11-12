@@ -67,18 +67,7 @@ const projects = [
     alt: "DailyCart grocery shopping app shown across three mobile screens",
     figmaLink: "https://www.figma.com/design/m5RBrEqa9aj21pJK5PqzOA/projects?node-id=0-1&t=jQZwZ7ACKT1NeIdm-1"
   },
-  {
-    number: "05",
-    slug: "form",
-    title: "FORM",
-    category: "FASHION E-COMMERCE",
-    description:
-      "A confident shopping experience where product, material and editorial storytelling share the stage.",
-    tools: "FIGMA · ILLUSTRATOR",
-    image: "",
-    alt: "",
-    figmaLink: "PASTE_FORM_FIGMA_LINK_HERE"
-  }
+  
 ];
 
 
